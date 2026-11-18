@@ -1,9 +1,8 @@
 # Trabajo Práctico – Virtualización con VirtualBox
 
 **Materia:** Arquitectura y Sistemas Operativos
-**Alumnos:** [Apellido, Nombre] – [correo]
-**Profesor/a:** [Docente a cargo de la comisión]
-**Fecha de entrega:** [dd/mm/aaaa]
+**Alumnos:** Victorio Perez
+**Fecha de entrega:** 18/11/2026
 
 ## Resumen
 
@@ -47,7 +46,7 @@ El promedio es: 8.00
 
 ## Entorno utilizado
 
-- Anfitrión (host): [sistema operativo]
-- Hipervisor: Oracle VirtualBox [versión]
-- Invitado (guest): [Ubuntu / Linux Mint, versión]
-- Recursos de la VM: [RAM] de memoria, [GB] de disco
+- Anfitrión (host): Windows 11
+- Hipervisor: Oracle VirtualBox
+- Invitado (guest): Ubuntu
+- Recursos de la VM: 2 GB de memoria, 25GB de disco
